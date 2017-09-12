@@ -1,2 +1,3 @@
 # hello-world
-My first project
+This is Vinodh's first project
+and going make good contribution to git-world
